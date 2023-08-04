@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/globalbioticinteractions/bco-dmo.svg)](https://travis-ci.com/globalbioticinteractions/bco-dmo) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/bco-dmo)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/bco-dmo)
+[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/bco-dmo)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/bco-dmo)
 
 Configuration to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) index datasets via the Biological & Chemical Oceanography Data Management Office https://www.bco-dmo.org/ at the Woods Hole Oceanographic Institution http://www.whoi.edu/ . 
 
